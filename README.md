@@ -17,10 +17,8 @@
 - 💾 Je m'intéresse à l'automatisation des workflows d'archivage.  
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kOTFkNzQ0MDVpamE1NWFxZDVzZmQ4cmdyMnIzNTFnY2cwcTFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY5sZs6NSWIYIIXqBE/giphy.gif" style="width: 100%;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kOTFkNzQ0MDVpamE1NWFxZDVzZmQ4cmdyMnIzNTFnY2cwcTFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY5sZs6NSWIYIIXqBE/giphy.gif" style="width: 50%;" />
 </div>
-
-
 
 ## Languages and Tools  
 <div align="center">  
