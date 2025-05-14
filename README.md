@@ -1,22 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Lucrecia24/Lucrecia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hey 👋, Je suis Lucrecia  
   
-
 <a href="https://github.com/Lucrecia24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -24,15 +8,9 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
   
-  
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -60,6 +38,15 @@ Here are some ideas to get you started:
 
 <br/>  
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/Lucrecia24/tri_images/blob/3c24563c9088584bd4208181ca29f1f4e79af5cd/detect_flou_UI.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+   </a>
+  </p>
 
 ## Languages and Tools  
 <div align="center">  
