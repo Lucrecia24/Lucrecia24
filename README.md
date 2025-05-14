@@ -7,7 +7,6 @@
 <a href="https://linkedin.com/in/charlotte-roman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kOTFkNzQ0MDVpamE1NWFxZDVzZmQ4cmdyMnIzNTFnY2cwcTFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY5sZs6NSWIYIIXqBE/giphy.gif" style="width: 70%;" />
 
 ## Rapidfire
 
