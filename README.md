@@ -9,31 +9,17 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Rapidfire
 
 - 🔭 Je m'intéresse à l'automatisation des workflows d'archivage.  
-  
-
 - 🌱 J'apprends Python pour créer des outils dédiés à la préservation numérique.  
-  
-
 - 🔍 Mes projets visent à documenter, vérifier et pérenniser les collections numériques.  
-  
-
 - 💾 Je m'intéresse à l'automatisation des workflows d'archivage.  
 
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kOTFkNzQ0MDVpamE1NWFxZDVzZmQ4cmdyMnIzNTFnY2cwcTFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY5sZs6NSWIYIIXqBE/giphy.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5kOTFkNzQ0MDVpamE1NWFxZDVzZmQ4cmdyMnIzNTFnY2cwcTFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MY5sZs6NSWIYIIXqBE/giphy.gif" style="width: 100%;" />
+</div>
 
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
