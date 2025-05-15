@@ -13,7 +13,6 @@
 - 🔭 Je m'intéresse à l'automatisation des workflows d'archivage.  
 - 🌱 J'apprends Python pour créer des outils dédiés à la préservation numérique.  
 - 🔍 Mes projets visent à documenter, vérifier et pérenniser les collections numériques.  
-- 💾 Je m'intéresse à l'automatisation des workflows d'archivage.  
 
 ## Languages and Tools  
 <div align="center">  
