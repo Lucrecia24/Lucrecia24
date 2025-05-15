@@ -24,9 +24,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>  
 </div>  
-
-<br/>  
-
+ 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -38,15 +36,8 @@
 
 </td></tr></table>  
 
-<br/>  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lucrecia24&&style=flat-square)   
-
-<br/>  
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
