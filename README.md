@@ -40,6 +40,3 @@
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lucrecia24&&style=flat-square)   
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
