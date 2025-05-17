@@ -1,6 +1,8 @@
 
 ## Hey 👋, Lucrecia here !
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=marmotte2410&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff40ff&interchange=false&bar_color=ff40ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=marmotte2410&redirect=true)
+
 <a href="https://github.com/Lucrecia24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
